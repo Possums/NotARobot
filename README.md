@@ -46,8 +46,7 @@ Note: I recommend either compiling Tensorflow yourself, or installing the tensor
 ### Models
 
 Each model used is approximately 1.2 GB, and thus cannot be included in Github repositories.
-They are hosted in Google Drive at the following links:
-Uploading-in Progress!
+They are hosted in Google Drive at the following links (will be available when uploading finishes):
 
 | Class  | URL |
 | ------------- | ------------- |
