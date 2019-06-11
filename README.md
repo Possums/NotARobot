@@ -27,17 +27,18 @@ The denoising algorithm uses Nvidia's noise2noise library. It is trained using G
 ### Hardware
 A GPU capable of inference on the NASNet architecture is required (approximately 8GB of VRAM or more).
 
-Python dependencies
+### Python dependencies
 This project was run on Ubuntu 19.04 running Python3.7. Dependencies include pyautogui, pillow, numpy, matplotlib, and tensorflow. By default, it opens the Chrome browser, but this is easy to change according to preference. These can be installed by running the following:
 ```
 pip3 install -r requirements.txt
 ```
 Note: I recommend either compiling Tensorflow yourself, or installing the tensorflow-gpu package for best results.
 
-Models
+### Models
 Each model used is approximately 1.2 GB, and thus cannot be included in Github repositories. They are hosted in Google Drive at the following links:
 
 |Class |	URL |
+|-------------|-------------|
 |Bicycle |	Content Cell |
 |Bus | Content Cell |
 |Captcha image(s) |	Content Cell |
@@ -45,4 +46,5 @@ Each model used is approximately 1.2 GB, and thus cannot be included in Github r
 |Captcha checkbox	| Content Cell |
 |Fire Hydrant	| Content Cell |
 |Traffic Light	| Content Cell |
+
 Each model is compressed into a tar.gz, and should be extracted into the object_detection directory.
