@@ -37,12 +37,12 @@ Note: I recommend either compiling Tensorflow yourself, or installing the tensor
 Models
 Each model used is approximately 1.2 GB, and thus cannot be included in Github repositories. They are hosted in Google Drive at the following links:
 
-Class	URL
-Bus	Content Cell
-Bicycle	Content Cell
-Captcha image(s)	Content Cell
-Car	Content Cell
-Captcha checkbox	Content Cell
-Fire Hydrant	Content Cell
-Traffic Light	Content Cell
+|Class |	URL |
+|Bicycle |	Content Cell |
+|Bus | Content Cell |
+|Captcha image(s) |	Content Cell |
+|Car	| Content Cell |
+|Captcha checkbox	| Content Cell |
+|Fire Hydrant	| Content Cell |
+|Traffic Light	| Content Cell |
 Each model is compressed into a tar.gz, and should be extracted into the object_detection directory.
