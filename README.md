@@ -56,6 +56,6 @@ They are hosted in Google Drive at the following links:
 | Car | Content Cell|
 | Captcha checkbox | Content Cell|
 | Fire Hydrant | Content Cell|
-| Traffit Light | Content Cell|
+| Traffic Light | Content Cell|
 
 Each model is compressed into a tar.gz, and should be extracted into the object_detection directory.
