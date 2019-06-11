@@ -23,6 +23,12 @@ The classification of reCaptchas is done with a simple Tensorflow classification
 
 The denoising algorithm uses Nvidia's noise2noise library. It is trained using Gaussian noise on a dataset of 15,000 reCaptcha images that I collected. This library is interesting in that data does not have to be labelled, allowing for easy use of large datasets. Denoising is beneficial in reCaptcha solving, as Google has begun implementing adversarial noise in a portion of images.
 
+## Examples
+
+reCAPTCHA         |  Detections
+:-------------------------:|:-------------------------:
+![](https://github.com/Possums/NotARobot/raw/master/img/captcha.png)  |  ![](https://github.com/Possums/NotARobot/raw/master/img/detections.png)
+
 ## Getting Started
 ### Hardware
 A GPU capable of inference on the NASNet architecture is required (approximately 8GB of VRAM or more).
