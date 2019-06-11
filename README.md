@@ -1,5 +1,5 @@
-# NotARobot - Automated reCAPTCHA solving using Tensorflow
-Emil Tu
+# NotARobot - Automating reCAPTCHAs with Tensorflow
+###### Emil Tu
 This project leverages the Tensorflow Object Detection API to automatically solve Google reCAPTCHAs.
 
 The procedure is as follows:
@@ -39,12 +39,12 @@ Each model used is approximately 1.2 GB, and thus cannot be included in Github r
 
 |Class |	URL |
 |-------------|-------------|
-|Bicycle |	Content Cell |
-|Bus | Content Cell |
-|Captcha image(s) |	Content Cell |
-|Car	| Content Cell |
-|Captcha checkbox	| Content Cell |
-|Fire Hydrant	| Content Cell |
-|Traffic Light	| Content Cell |
+|Bicycle |	[link](https://drive.google.com/file/d/19dSW-_TfIY03s-0xjwmqQrlkjXy0dzcr/view?usp=sharing) |
+|Bus | [link](https://drive.google.com/file/d/1fGFZpI3IsVIhW4bKc7_-UQjkHmYg_knv/view?usp=sharing) |
+|Captcha image(s) |	[link](https://drive.google.com/file/d/1N0yMl2f5nT1eFTZvK6QpHQ33uexMeayM/view?usp=sharing) |
+|Car	| [link](https://drive.google.com/file/d/1qUA0PRJmtNINpS7bdpT0wur19Fd1EKLN/view?usp=sharing) |
+|Captcha checkbox	| [link](https://drive.google.com/file/d/11MIzTNSrGRU66Qws-EH0WfXEGVFssCCz/view?usp=sharing) |
+|Fire Hydrant	| [link](https://drive.google.com/file/d/1pYbTFR2_XseQ937Yoeih93ediyZnifbu/view?usp=sharing) |
+|Traffic Light	| [link](https://drive.google.com/file/d/1GC2LTI2U_nNlX08__HQ97V2QjgO00_Ey/view?usp=sharing) |
 
 Each model is compressed into a tar.gz, and should be extracted into the object_detection directory.
