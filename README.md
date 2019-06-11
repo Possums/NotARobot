@@ -54,3 +54,12 @@ Each model used is approximately 1.2 GB, and thus cannot be included in Github r
 |Traffic Light	| [link](https://drive.google.com/file/d/1GC2LTI2U_nNlX08__HQ97V2QjgO00_Ey/view?usp=sharing) |
 
 Each model is compressed into a tar.gz, and should be extracted into the object_detection directory.
+
+### Usage
+
+Simply run
+
+```
+export PYTHONPATH=$PYTHONPATH:`pwd`:`pwd`/slim
+python3 run.py
+```
