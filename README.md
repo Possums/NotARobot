@@ -14,3 +14,13 @@ The procedure is as follows:
 7. Click the appropriate boxes and verify.
 8. Profit?
 
+## Getting Started
+
+### Python dependencies
+
+This project was run on Ubuntu 19.04 running Python3.7. Dependencies include pyautogui, pillow, numpy, matplotlib, and tensorflow.
+These can be installed by running the following:
+
+```
+pip3 install -r requirements.txt
+```
