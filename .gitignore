@@ -1,0 +1,8 @@
+object_detection/inference_graph_bicycle
+object_detection/inference_graph_bus
+object_detection/inference_graph_captcha
+object_detection/inference_graph_car
+object_detection/inference_graph_checkbox
+object_detection/inference_graph_hydrant
+object_detection/inference_graph_stoplight
+*.tar.gz

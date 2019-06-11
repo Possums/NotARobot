@@ -1,0 +1,5 @@
+pyautogui
+pillow
+numpy
+tensorflow
+matplotlib
