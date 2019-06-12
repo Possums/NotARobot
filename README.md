@@ -29,6 +29,9 @@ reCAPTCHA         |  Detections
 :-------------------------:|:-------------------------:
 ![](https://github.com/Possums/NotARobot/raw/master/img/captcha.png)  |  ![](https://github.com/Possums/NotARobot/raw/master/img/detections.png)
 
+### Video demo
+[![Video demo](http://img.youtube.com/vi/_OS5xOHxUtU/0.jpg)](http://www.youtube.com/watch?v=_OS5xOHxUtU "Video demo")
+
 ## Getting Started
 ### Hardware
 A GPU capable of inference on the NASNet architecture is required (approximately 8GB of VRAM or more).
